@@ -1,9 +1,9 @@
 q0,a,z0,z0,q1,Az0,z0
 q1,a,A,z0,q1,AA,z0
 q1,b,A,z0,q2,A,Bz0
-q2,b,A,A,q2,A,BB
-q2,c,A,A,q3,lambda,B
-q3,c,A,A,q3,lambda,B
-q3,d,z0,A,q4,z0,lambda
-q4,d,z0,A,q4,z0,lambda
-q4,lambda,z0,z0,q5,z0,z0
+q2,b,A,B,q2,A,BB
+q2,c,A,B,q3,lambda,B
+q3,c,A,B,q3,lambda,B
+q3,d,z0,B,q4,z0,lambda
+q4,d,z0,B,q4,z0,lambda
+q4,lambda,z0,z0,qf,z0,z0
